@@ -24,3 +24,4 @@
 <br>
 
 ![Snake animation](https://github.com/LeonardoAlmeida777/Leonardoalmeida777/blob/output/github-contribution-grid-snake.svg)
+
